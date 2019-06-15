@@ -1,0 +1,7 @@
+{
+  "name": "@airt/prettierrc",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "airt",
+  "main": ".prettierrc.json"
+}
